@@ -34,6 +34,7 @@
 				tooltip.insert(i, 
 					{
 						id = "mod_CER_0",
+						type = "hint",
 						text = "Used in the crafting of the following:", 
 					}
 				);
