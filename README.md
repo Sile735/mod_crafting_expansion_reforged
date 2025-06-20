@@ -15,3 +15,8 @@ Potion of Oblivion
 Potion of Wolf Step
 - Grants Pathfinder perk to the user.
 
+Holy Water
+- just like the Tool obtained in the Event
+
+Water Jug
+- Like the Foutain of youth event
