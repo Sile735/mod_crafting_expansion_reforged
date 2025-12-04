@@ -5,7 +5,7 @@ this.wolfstep_potion_effect <- this.inherit("scripts/skills/skill", {
 		this.m.ID = "effects.wolfstep_potion";
 		this.m.Name = "Wolf's Agility";
 		this.m.Icon = "ui/perks/perk_23.png";
-		this.m.IconMini = "ui/perks/perk_23.png";
+		this.m.IconMini = "perk_23_mini";
 		this.m.Overlay = "status_effect_139";
 		this.m.Type = this.Const.SkillType.StatusEffect;
 		this.m.Order = this.Const.SkillOrder.Perk;
