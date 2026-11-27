@@ -1,5 +1,5 @@
 // Recipe: Potion of Serenity (Reforged, Banshee): Serene Mind
-// Banshees drop Geist Tears; Petrified Scream (Alp) for the fear theme.
+// Banshees drop Geist Tears; Petrified Scream (Alp) for the fear theme, Vampire Dust for the undead origin.
 this.rf_banshee_potion_item_blueprint <- this.inherit("scripts/crafting/blueprint", {
 	m = {},
 	function create()
@@ -15,6 +15,10 @@ this.rf_banshee_potion_item_blueprint <- this.inherit("scripts/crafting/blueprin
 			},
 			{
 				Script = "scripts/items/misc/petrified_scream_item",
+				Num = 1
+			},
+			{
+				Script = "scripts/items/misc/vampire_dust_item",
 				Num = 1
 			}
 		];
