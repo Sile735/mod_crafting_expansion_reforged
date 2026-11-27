@@ -34,9 +34,9 @@ Upgraded trophy necklaces (0.4.0) - each upgrade consumes the previous necklace;
 
 | Necklace | Effect | Ingredients | Cost |
 |---|---|---|---|
-| Hexen Trophy Necklace +1 | +7 Resolve | Hexen Trophy Necklace, 1x Poisoned Apple | 500 |
-| Hexen Trophy Necklace +2 | +8 Resolve | Hexen Trophy Necklace +1, 1x Mysterious Herbs | 1000 |
-| Hexen Trophy Necklace +3 | +9 Resolve | Hexen Trophy Necklace +2, 1x Witch Hair | 2000 |
+| Hexen Trophy Necklace +1 | +7 Resolve | Hexen Trophy Necklace, 1x Witch Hair | 500 |
+| Hexen Trophy Necklace +2 | +8 Resolve | Hexen Trophy Necklace +1, 1x Witch Hair, 1x Mysterious Herbs | 1000 |
+| Hexen Trophy Necklace +3 | +9 Resolve | Hexen Trophy Necklace +2, 1x Witch Hair, 1x Poisoned Apple, 1x Mysterious Herbs | 2000 |
 | Nachzehrer Trophy Necklace +1 | +4 Resolve, heals 3 HP after each battle | Nachzehrer Trophy Necklace, 3x Ghoul Brain, 2x Ghoul Horn | 1000 |
 | Nachzehrer Trophy Necklace +2 | +4 Resolve, heals 5 HP after each battle | Nachzehrer Trophy Necklace +1, 4x Ghoul Brain, 3x Ghoul Teeth, 1x Growth Pearls | 2000 |
 

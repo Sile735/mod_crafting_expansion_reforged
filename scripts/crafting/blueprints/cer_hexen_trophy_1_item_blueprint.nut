@@ -14,7 +14,7 @@ this.cer_hexen_trophy_1_item_blueprint <- ::inherit("scripts/crafting/cer_upgrad
 				Num = 1
 			},
 			{
-				Script = "scripts/items/misc/poisoned_apple_item",
+				Script = "scripts/items/misc/witch_hair_item",
 				Num = 1
 			}
 		];
