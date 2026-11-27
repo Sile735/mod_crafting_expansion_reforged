@@ -29,3 +29,14 @@ New anatomist potion recipes (0.4.0):
 | Ifrit potion (Stone Skin) | 3x Sulfurous Rocks | 3500 |
 | Necromancer potion (Visions) | 1x Vampire Dust, 1x Mysterious Herbs | 1250 |
 | Young Orc potion (Kinetic Blows) | 2x Berserker Mushrooms, 1x Unhold Bones | 1250 |
+
+Upgraded trophy necklaces (0.4.0) - each upgrade consumes the previous necklace; the art is a subtly tinted copy of the vanilla necklace:
+
+| Necklace | Effect | Ingredients | Cost |
+|---|---|---|---|
+| Hexen Trophy Necklace +1 | +7 Resolve | Hexen Trophy Necklace, 1x Poisoned Apple | 500 |
+| Hexen Trophy Necklace +2 | +8 Resolve | Hexen Trophy Necklace +1, 1x Mysterious Herbs | 1000 |
+| Hexen Trophy Necklace +3 | +9 Resolve | Hexen Trophy Necklace +2, 1x Witch Hair | 2000 |
+| Nachzehrer Trophy Necklace +1 | +4 Resolve, heals 3 HP after each battle | Nachzehrer Trophy Necklace, 3x Ghoul Brain, 2x Ghoul Horn | 1000 |
+| Nachzehrer Trophy Necklace +2 | +4 Resolve, heals 5 HP after each battle | Nachzehrer Trophy Necklace +1, 4x Ghoul Brain, 3x Ghoul Teeth, 1x Growth Pearls | 2000 |
+
