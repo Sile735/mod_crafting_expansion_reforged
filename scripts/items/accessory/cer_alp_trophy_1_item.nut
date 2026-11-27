@@ -1,4 +1,4 @@
-// Alp Trophy Necklace +1: vanilla +5 Resolve, plus +10% Resolve against psychic attacks
+// Alp Trophy Necklace +1: vanilla +5 Resolve, plus +10% Resolve against mental attacks
 // (morale checks of type ::Const.MoraleCheckType.MentalAttack: Alp nightmares/sleep, Hexe charm, Geist horror ...).
 // Art: ethereal, glowing version of the vanilla necklace (gfx/ui/items/accessory/cer_alp_trophy_1.png and
 // the worn sprites in brushes/cer_trophies.brush).
@@ -25,7 +25,7 @@ this.cer_alp_trophy_1_item <- ::inherit("scripts/items/accessory/alp_trophy_item
 			id = 11,
 			type = "text",
 			icon = "ui/icons/bravery.png",
-			text = ::MSU.Text.colorPositive("+" + ::Math.round((this.m.MentalAttackResolveMult - 1.0) * 100) + "%") + " Resolve against psychic attacks"
+			text = ::MSU.Text.colorPositive("+" + ::Math.round((this.m.MentalAttackResolveMult - 1.0) * 100) + "%") + " Resolve against mental attacks (fear and mind control)"
 		});
 		return ret;
 	}

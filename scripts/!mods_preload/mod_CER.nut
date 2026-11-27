@@ -4,7 +4,7 @@
 ::mod_CER <- {
 	ID = "mod_CER",
 	Name = "Crafting Expansion Reforged",
-	Version = "0.4.0",	// keep in sync with the GitHub release tag
+	Version = "0.4.1",	// keep in sync with the GitHub release tag
 	GitHubURL = "https://github.com/Sile735/mod_crafting_expansion_reforged"
 };
 
