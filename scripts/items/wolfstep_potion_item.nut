@@ -1,9 +1,11 @@
+// Potion of Wolf Step (crafted, see scripts/crafting/blueprints/wolfstep_potion_blueprint.nut):
+// grants the Pathfinder movement costs permanently (scripts/skills/wolfstep_potion_effect.nut).
 this.wolfstep_potion_item <- this.inherit("scripts/items/misc/anatomist/anatomist_potion_item", {
 	m = {},
 	function create()
 	{
 		this.anatomist_potion_item.create();
-		this.m.ID = "misc.direwolf_potion";
+		this.m.ID = "misc.wolfstep_potion";	// was "misc.direwolf_potion", the ID of vanilla's Direwolf potion
 		this.m.Name = "Potion of Wolf Step";
 		this.m.Description = "This humoural concoction, borne from research into the dreaded direwolf, will allow anyone to move with the agility of a wolf";
 		this.m.IconLarge = "";
