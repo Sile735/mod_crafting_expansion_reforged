@@ -20,3 +20,12 @@ Holy Water
 
 Water Jug
 - Like the Foutain of youth event
+
+New anatomist potion recipes (0.4.0):
+
+| Potion | Ingredients | Cost |
+|---|---|---|
+| Potion of Serenity (Reforged Banshee, Serene Mind) | 2x Geist Tear, 1x Petrified Scream | 2500 |
+| Ifrit potion (Stone Skin) | 3x Sulfurous Rocks | 3500 |
+| Necromancer potion (Visions) | 1x Vampire Dust, 1x Mysterious Herbs | 1250 |
+| Young Orc potion (Kinetic Blows) | 2x Berserker Mushrooms, 1x Unhold Bones | 1250 |
