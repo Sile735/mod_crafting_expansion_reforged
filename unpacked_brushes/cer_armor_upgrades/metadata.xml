@@ -1,0 +1,5 @@
+<brush name="gfx/cer_armor_upgrades.png" version="17">
+  <sprite id="cer_spidersilk_padding_back" offsetY="35" ic="FF3C4958" width="140" height="248" img="entity\armor_upgrades\cer_spidersilk_padding_back.png" left="-55" right="47" top="-43" bottom="13" />
+  <sprite id="cer_spidersilk_padding_back_damaged" offsetY="35" ic="FF364453" width="140" height="248" img="entity\armor_upgrades\cer_spidersilk_padding_back_damaged.png" left="-55" right="47" top="-43" bottom="13" />
+  <sprite id="cer_spidersilk_padding_back_dead" offsetX="6" offsetY="10" f="64FD" ic="FF374555" width="191" height="185" img="entity\armor_upgrades\cer_spidersilk_padding_back_dead.png" left="-50" right="46" top="-67" bottom="1" />
+</brush>

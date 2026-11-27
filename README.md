@@ -40,3 +40,9 @@ Upgraded trophy necklaces (0.4.0) - each upgrade consumes the previous necklace;
 | Nachzehrer Trophy Necklace +1 | +4 Resolve, heals 3 HP after each battle | Nachzehrer Trophy Necklace, 3x Ghoul Brain, 2x Ghoul Horn | 1000 |
 | Nachzehrer Trophy Necklace +2 | +4 Resolve, heals 5 HP after each battle | Nachzehrer Trophy Necklace +1, 4x Ghoul Brain, 3x Ghoul Teeth, 1x Growth Pearls | 2000 |
 
+Armor attachment (0.4.0):
+
+| Attachment | Effect | Ingredients | Cost |
+|---|---|---|---|
+| Spidersilk Padding Replacement | Reduces the armor's Maximum Fatigue penalty by 30% (Light Padding: 20%), +10 Durability | Light Padding Replacement (not fused), 4x Spider Silk, 2x Poison Gland | 1000 |
+
