@@ -9,4 +9,6 @@
   <sprite id="cer_nachzehrer_trophy_1_dead" offsetX="6" offsetY="10" f="64FD" ic="FF526879" width="191" height="185" img="entity\details\cer_nachzehrer_trophy_1_dead.png" left="-40" right="12" top="-44" bottom="16" />
   <sprite id="cer_nachzehrer_trophy_2" offsetY="35" ic="FF4F6575" width="140" height="248" img="entity\details\cer_nachzehrer_trophy_2.png" left="-22" right="32" top="-54" bottom="2" />
   <sprite id="cer_nachzehrer_trophy_2_dead" offsetX="6" offsetY="10" f="64FD" ic="FF526879" width="191" height="185" img="entity\details\cer_nachzehrer_trophy_2_dead.png" left="-40" right="12" top="-44" bottom="16" />
+  <sprite id="cer_alp_trophy_1" offsetY="35" ic="FF474953" width="140" height="248" img="entity\details\cer_alp_trophy_1.png" left="-22" right="34" top="-49" bottom="3" />
+  <sprite id="cer_alp_trophy_1_dead" offsetX="6" offsetY="10" f="64FD" ic="FF484A54" width="191" height="185" img="entity\details\cer_alp_trophy_1_dead.png" left="-39" right="13" top="-45" bottom="17" />
 </brush>
